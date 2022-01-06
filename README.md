@@ -22,7 +22,7 @@ The project called "PC-CODERS" is a Wheel of Doom, based on JAVASCRIPT, CSS and 
 
 7.- Use MediaQueries for the Responsive Web.
 
-## Comenzando 👩‍💻
+## Starting 👩‍💻
 
 These instructions will allow you to get a copy of the project running on your local computer, for development and testing purposes:
 
@@ -50,9 +50,7 @@ Mockup of the main idea of ​​the project with functionality:
 ## Mobile Version 🚀
 
 <p align="center"> 
-  <img src="./images/imgReadme.md/landingMobil.png?raw=true" width=19% >
-  <img src="./images/imgReadme.md/landingMobil1.png?raw=true" width=20%>
-  <img src="./images/imgReadme.md/landingMobil2.png?raw=true" width=20%>
+  <img src="./images/imgReadme.md/mobile.jpg?raw=true" width=50% >
 </p>
   
 ## Desktop Version 🚀
